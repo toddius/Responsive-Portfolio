@@ -1,0 +1,42 @@
+body {
+    background-image: url("./images/hubble-deep-field.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* .navbar-brand {
+    background-color: steelblue;
+} */
+.container {
+    padding: 0px;
+    margin: 0px;
+}
+
+#name {
+    background-color: steelblue;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+section {
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    color: steelblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#about-me {
+    width: 275px; 
+    height: 275px;
+}
+
+.footer {
+    color: steelblue;
+}
